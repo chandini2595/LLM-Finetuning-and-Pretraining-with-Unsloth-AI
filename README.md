@@ -127,14 +127,6 @@ Finetune a model using Unsloth AI and export it to Ollama for efficient inferenc
 
 ---
 
-### **Part H: Reasoning Model using GRPO**  
-Train your own reasoning model using **GRPO** with Unsloth AI.  
-- 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-grpo)  
-- 🎥 [YouTube Video](https://youtu.be/dummy-link-grpo)  
-**Use Case:** Complex problem-solving and multi-step reasoning  
-
----
-
 ## 🌟 **Why This Matters**  
 ✅ Speed up training and inference with Unsloth AI  
 ✅ Deploy custom models for real-world applications  
