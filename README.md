@@ -105,7 +105,8 @@ Learn how to train LLMs using feedback-based reward models:
 
 ### **Part E: Continued Fine-Tuning from a Custom Checkpoint**  
 Finetune from a custom checkpoint using Unsloth AI.  
-- 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-custom-checkpoint)  
+- 📄 [Colab Link](https://colab.research.google.com/drive/1lJyRbYRgEltUUboMRqZtZopbMsGfpRBH?usp=sharing)
+- 📄 [Colab Link](https://colab.research.google.com/drive/1sqg01DP0xiB9AsG9iaDjAmrawSC7nEME?usp=sharing)
 - 🎥 [YouTube Video](https://youtu.be/dummy-link-custom-checkpoint)  
 **Use Case:** Custom model adaptation for specialized tasks  
 
