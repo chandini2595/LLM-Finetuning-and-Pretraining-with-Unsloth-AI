@@ -97,7 +97,7 @@ Learn how to train LLMs using feedback-based reward models:
    **Use Case:** Customer satisfaction feedback loops  
 
 2. **DPO (Direct Preference Optimization)** – Optimize for direct user preferences to enhance response quality.  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-dpo)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/13Ux2G79VSiugjj_YtJ7Q4FzmF_qCWbX1?usp=sharing)  
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-dpo)  
    **Use Case:** Personalization for content recommendations  
 
