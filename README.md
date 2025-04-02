@@ -92,7 +92,7 @@ Predefined templates for creating various chatbot use cases:
 Learn how to train LLMs using feedback-based reward models:  
 
 1. **ORPO (Online Reward Policy Optimization)** – Optimize responses in real-time based on user feedback.  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-orpo)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/18_ivMr6eReTjRgO15a-aZJ8WSmTAjHfO?usp=sharing)  
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-orpo)  
    **Use Case:** Customer satisfaction feedback loops  
 
