@@ -119,7 +119,7 @@ Finetune **Phi-3** using Unsloth AI to create a mental health chatbot.
 ### **Part G: Export to Ollama**  
 Finetune a model using Unsloth AI and export it to Ollama for efficient inference.  
 - 📄 [Colab Link](https://colab.research.google.com/drive/1KPp8Qvff9Lucx2ErPDFR8297Db-IwfI8?usp=sharing)  
-- 🎥 [YouTube Video](https://youtu.be/dummy-link-export-ollama)  
+- 🎥 [YouTube Video](https://youtu.be/ShKHcOsWbzc)  
 **Use Case:** Fast and scalable model deployment  
 
 ---
