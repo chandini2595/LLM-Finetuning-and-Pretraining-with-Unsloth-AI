@@ -77,7 +77,7 @@ Predefined templates for creating various chatbot use cases:
    **Use Case:** Virtual assistant for customer support  
 
 3. **Context Extension with TinyLlama** – Extend the context size of TinyLlama for handling long conversations or documents.  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-context-extension)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/1Z-_nAj5be_eKRAdlC1qpI6Az7_hgXxm5?usp=sharing)  
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-context-extension)  
    **Use Case:** Long document summarization  
 
