@@ -67,7 +67,7 @@ You will use **Unsloth AI** to continue pretraining a model on a new language. T
 Predefined templates for creating various chatbot use cases:  
 
 1. **Classification Chat** – Build a chatbot that can classify user input into predefined categories.  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-classification-chat)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/12Mv12hho7L4MKBxd4WOTkdFCwfNjL-IR?usp=sharing)  
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-classification-chat)  
    **Use Case:** Customer query classification  
 
