@@ -82,7 +82,7 @@ Predefined templates for creating various chatbot use cases:
    **Use Case:** Long document summarization  
 
 4. **Multi-dataset Single Finetuning** – Finetune on multiple datasets simultaneously for enhanced versatility.  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-multi-dataset)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/1g1dgGF9X9Xg-Q-SBEt5qJaRHxlH1SGRu?usp=sharing)  
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-multi-dataset)  
    **Use Case:** Cross-domain understanding and adaptation  
 
