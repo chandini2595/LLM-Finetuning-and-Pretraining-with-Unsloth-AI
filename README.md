@@ -66,23 +66,21 @@ Predefined templates for creating various chatbot use cases:
 
 1. **Classification Chat** – Build a chatbot that can classify user input into predefined categories.  
    - 📄 [Colab Link](https://colab.research.google.com/drive/12Mv12hho7L4MKBxd4WOTkdFCwfNjL-IR?usp=sharing)  
-   - 🎥 [YouTube Video](https://youtu.be/dummy-link-classification-chat)  
    **Use Case:** Customer query classification  
 
 2. **Conversational Chat** – Develop a chatbot for natural, multi-turn conversations.  
    - 📄 [Colab Link](https://colab.research.google.com/drive/1rEQybJxgRsmy5SJvkfa8e_3TeLbK15c_?usp=sharing)  
-   - 🎥 [YouTube Video](https://youtu.be/dummy-link-conversational-chat)  
    **Use Case:** Virtual assistant for customer support  
 
 3. **Context Extension with TinyLlama** – Extend the context size of TinyLlama for handling long conversations or documents.  
    - 📄 [Colab Link](https://colab.research.google.com/drive/1Z-_nAj5be_eKRAdlC1qpI6Az7_hgXxm5?usp=sharing)  
-   - 🎥 [YouTube Video](https://youtu.be/dummy-link-context-extension)  
    **Use Case:** Long document summarization  
 
 4. **Multi-dataset Single Finetuning** – Finetune on multiple datasets simultaneously for enhanced versatility.  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/1g1dgGF9X9Xg-Q-SBEt5qJaRHxlH1SGRu?usp=sharing)  
-   - 🎥 [YouTube Video](https://youtu.be/dummy-link-multi-dataset)  
-   **Use Case:** Cross-domain understanding and adaptation  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/1g1dgGF9X9Xg-Q-SBEt5qJaRHxlH1SGRu?usp=sharing)   
+   **Use Case:** Cross-domain understanding and adaptation
+
+    🎥 [YouTube Video](https://youtu.be/-El6rybTkcU) 
 
 ---
 
