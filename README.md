@@ -31,23 +31,21 @@ You will finetune various open-weight LLMs using **Unsloth AI** for different ta
 
 1. **Llama 3.1 (8B)** – Fine-tuning for a coding task  
    - 📄 [Colab Link](https://colab.research.google.com/drive/1bcsOZAALB913w-lSvDlv-5Rw9BBqgtm4?usp=sharing)  
-   - 🎥 [YouTube Video](https://youtu.be/dummy-link-llama3-8b)  
    **Use Case:** Code generation and debugging assistance  
 
 2. **Mistral NeMo (12B)** – Fine-tuning for a chat task  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/1EWi81KzuE3REnubLd6Bbh0VtKJaRUFbh?usp=sharing)  
-   - 🎥 [YouTube Video](https://youtu.be/dummy-link-mistral-nemo)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/1EWi81KzuE3REnubLd6Bbh0VtKJaRUFbh?usp=sharing)    
    **Use Case:** Creating intelligent chatbots for customer support  
 
 3. **Gemma 2 (9B)** – Fine-tuning for a conversational AI task  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/17heHe_YVtSZOpZKIJ6LUeTr1HvXc4xnu?usp=sharing)  
-   - 🎥 [YouTube Video](https://youtu.be/dummy-link-gemma2)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/17heHe_YVtSZOpZKIJ6LUeTr1HvXc4xnu?usp=sharing)   
    **Use Case:** Natural and human-like dialogue generation  
 
 4. **Phi-3 (medium)** – Fine-tuning for a reasoning task  
    - 📄 [Colab Link](https://colab.research.google.com/drive/1bFIMewTHxRauOgakbNhLCqd4dw78ktEp?usp=sharing)  
-   - 🎥 [YouTube Video](https://youtu.be/dummy-link-phi3-5)  
-   **Use Case:** Math-based problem-solving and logical reasoning  
+   **Use Case:** Math-based problem-solving and logical reasoning
+
+    🎥 [YouTube Video](https://www.youtube.com/watch?v=JkULRhRLeCY)  
 
 ---
 
