@@ -30,7 +30,7 @@ By following the included Colab notebooks, you'll learn how to:
 You will finetune various open-weight LLMs using **Unsloth AI** for different tasks:
 
 1. **Llama 3.1 (8B)** – Fine-tuning for a coding task  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-llama3-8b)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/1bcsOZAALB913w-lSvDlv-5Rw9BBqgtm4?usp=sharing)  
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-llama3-8b)  
    **Use Case:** Code generation and debugging assistance  
 
