@@ -72,7 +72,7 @@ Predefined templates for creating various chatbot use cases:
    **Use Case:** Customer query classification  
 
 2. **Conversational Chat** – Develop a chatbot for natural, multi-turn conversations.  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-conversational-chat)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/1rEQybJxgRsmy5SJvkfa8e_3TeLbK15c_?usp=sharing)  
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-conversational-chat)  
    **Use Case:** Virtual assistant for customer support  
 
