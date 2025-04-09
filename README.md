@@ -35,7 +35,7 @@ You will finetune various open-weight LLMs using **Unsloth AI** for different ta
    **Use Case:** Code generation and debugging assistance  
 
 2. **Mistral NeMo (12B)** – Fine-tuning for a chat task  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-mistral-nemo)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/1EWi81KzuE3REnubLd6Bbh0VtKJaRUFbh?usp=sharing)  
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-mistral-nemo)  
    **Use Case:** Creating intelligent chatbots for customer support  
 
