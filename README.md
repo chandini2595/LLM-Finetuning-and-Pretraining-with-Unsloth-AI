@@ -40,7 +40,7 @@ You will finetune various open-weight LLMs using **Unsloth AI** for different ta
    **Use Case:** Creating intelligent chatbots for customer support  
 
 3. **Gemma 2 (9B)** – Fine-tuning for a conversational AI task  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-gemma2)  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/17heHe_YVtSZOpZKIJ6LUeTr1HvXc4xnu?usp=sharing)  
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-gemma2)  
    **Use Case:** Natural and human-like dialogue generation  
 
