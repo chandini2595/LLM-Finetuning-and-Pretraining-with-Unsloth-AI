@@ -111,7 +111,7 @@ Finetune from a custom checkpoint using Unsloth AI.
 ### **Part F: Mental Health Development Chatbot**  
 Finetune **Phi-3** using Unsloth AI to create a mental health chatbot.  
 - 📄 [Colab Link](https://colab.research.google.com/drive/1kSWtZxndUHpVV7tw91v6voyY-sW8Nt09?usp=sharing)  
-- 🎥 [YouTube Video](https://youtu.be/dummy-link-mental-health-chatbot)  
+- 🎥 [YouTube Video](https://youtu.be/o5eF92TeAxA)  
 **Use Case:** Mental health support and therapy chatbot  
 
 ---
