@@ -89,13 +89,13 @@ Learn how to train LLMs using feedback-based reward models:
 
 1. **ORPO (Online Reward Policy Optimization)** – Optimize responses in real-time based on user feedback.  
    - 📄 [Colab Link](https://colab.research.google.com/drive/18_ivMr6eReTjRgO15a-aZJ8WSmTAjHfO?usp=sharing)  
-   - 🎥 [YouTube Video](https://youtu.be/dummy-link-orpo)  
    **Use Case:** Customer satisfaction feedback loops  
 
 2. **DPO (Direct Preference Optimization)** – Optimize for direct user preferences to enhance response quality.  
    - 📄 [Colab Link](https://colab.research.google.com/drive/13Ux2G79VSiugjj_YtJ7Q4FzmF_qCWbX1?usp=sharing)  
-   - 🎥 [YouTube Video](https://youtu.be/dummy-link-dpo)  
-   **Use Case:** Personalization for content recommendations  
+   **Use Case:** Personalization for content recommendations
+
+      🎥 [YouTube Video](https://youtu.be/xVSEy25AvZ0)  
 
 ---
 
