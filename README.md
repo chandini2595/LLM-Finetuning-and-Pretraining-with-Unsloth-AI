@@ -44,8 +44,8 @@ You will finetune various open-weight LLMs using **Unsloth AI** for different ta
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-gemma2)  
    **Use Case:** Natural and human-like dialogue generation  
 
-4. **Phi-3.5 (mini)** – Fine-tuning for a reasoning task  
-   - 📄 [Colab Link](https://colab.research.google.com/drive/dummy-link-phi3-5)  
+4. **Phi-3 (medium)** – Fine-tuning for a reasoning task  
+   - 📄 [Colab Link](https://colab.research.google.com/drive/1bFIMewTHxRauOgakbNhLCqd4dw78ktEp?usp=sharing)  
    - 🎥 [YouTube Video](https://youtu.be/dummy-link-phi3-5)  
    **Use Case:** Math-based problem-solving and logical reasoning  
 
