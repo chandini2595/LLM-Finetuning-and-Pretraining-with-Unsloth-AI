@@ -56,7 +56,7 @@ You will use **Unsloth AI** to continue pretraining a model on a new language. T
 ✅ Adapt to industry-specific terminology  
 
 - 📄 [Colab Link](https://colab.research.google.com/drive/1kInOc1hr-zTG3HTVFEr7ctRBeTZ4qgBg?usp=sharing)  
-- 🎥 [YouTube Video](https://youtu.be/dummy-link-continued-pretraining)  
+- 🎥 [YouTube Video](https://youtu.be/ZckjmHWT_HU)  
 **Use Case:** Training a model to understand domain-specific language (e.g., medical terms, financial language)  
 
 ---
